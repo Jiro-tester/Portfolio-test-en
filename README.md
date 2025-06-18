@@ -38,7 +38,10 @@ All test cases are structured following ISTQB-aligned documentation with:
 
 📁 `test-case-library/multiple-test-cases.xlsx`
 
----
+## 🎬 Demo Videos
+
+- [Manual Testing with Jira (Login Feature)](./demo-videos/Jira-demo.md)
+
 
 ## 👤 Author
 
