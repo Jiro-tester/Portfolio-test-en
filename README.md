@@ -12,14 +12,34 @@ Each exercise follows a clear structure: test plan, test cases, and bug report.
 - Identify and document bugs
 - Apply ISTQB best practices
 
-## Structure
+## 📚 Test Case Library
 
-Each folder corresponds to an exercise:
-exercise-01-contact-form/
-├── test-plan.md
-├── test-cases.md
-└── bug-report.md
+The repository includes a structured Excel document with multiple sets of manual test cases.
 
-## Author
+### 🧪 Covered Application Types:
+- Login functionality
+- Currency converter web app
+- School admission form
+- Wireframe-based UI test
+- Mobile applications
+- Desktop software
+
+All test cases are structured following ISTQB-aligned documentation with:
+- Test case ID
+- Preconditions
+- Steps
+- Expected results
+- Actual results
+- Status
+
+---
+
+## 📎 File Location
+
+📁 `test-case-library/multiple-test-cases.xlsx`
+
+---
+
+## 👤 Author
 
 Jean-Roger Essame
