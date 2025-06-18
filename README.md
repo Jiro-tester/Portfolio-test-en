@@ -1,5 +1,4 @@
-# Portfolio-test-en
-Testing project portfolio
+# Manual Testing Portfolio
 
 Welcome to my manual testing project portfolio.
 
@@ -16,3 +15,11 @@ Each exercise follows a clear structure: test plan, test cases, and bug report.
 ## Structure
 
 Each folder corresponds to an exercise:
+exercise-01-contact-form/
+├── test-plan.md
+├── test-cases.md
+└── bug-report.md
+
+## Author
+
+Jean-Roger Essame
